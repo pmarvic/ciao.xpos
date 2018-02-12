@@ -51,7 +51,7 @@ Partial Class frmPrimary
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Left
         Me.Panel3.Location = New System.Drawing.Point(0, 0)
         Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(190, 600)
+        Me.Panel3.Size = New System.Drawing.Size(190, 608)
         Me.Panel3.TabIndex = 2
         '
         'Label3
@@ -144,9 +144,9 @@ Partial Class frmPrimary
         Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Controls.Add(Me.btnOpen)
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.Panel1.Location = New System.Drawing.Point(190, 554)
+        Me.Panel1.Location = New System.Drawing.Point(190, 562)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(610, 46)
+        Me.Panel1.Size = New System.Drawing.Size(616, 46)
         Me.Panel1.TabIndex = 4
         '
         'Button2
@@ -168,7 +168,7 @@ Partial Class frmPrimary
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(16, Byte), Integer), CType(CType(29, Byte), Integer), CType(CType(61, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(800, 600)
+        Me.ClientSize = New System.Drawing.Size(806, 608)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Panel3)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
