@@ -120,9 +120,9 @@ Partial Class frmPrimary
         Me.btnOpen.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.btnOpen.Location = New System.Drawing.Point(3, 3)
         Me.btnOpen.Name = "btnOpen"
-        Me.btnOpen.Size = New System.Drawing.Size(80, 39)
+        Me.btnOpen.Size = New System.Drawing.Size(63, 61)
         Me.btnOpen.TabIndex = 1
-        Me.btnOpen.Text = "Usuario [F2]"
+        Me.btnOpen.Text = "Usuario   [F2]"
         Me.btnOpen.UseVisualStyleBackColor = False
         '
         'Button1
@@ -131,11 +131,11 @@ Partial Class frmPrimary
         Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.Button1.Location = New System.Drawing.Point(84, 3)
+        Me.Button1.Location = New System.Drawing.Point(68, 3)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(80, 39)
+        Me.Button1.Size = New System.Drawing.Size(63, 61)
         Me.Button1.TabIndex = 2
-        Me.Button1.Text = "Consultar[F3]"
+        Me.Button1.Text = "Consultar  [F3]"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'Panel1
@@ -144,9 +144,9 @@ Partial Class frmPrimary
         Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Controls.Add(Me.btnOpen)
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.Panel1.Location = New System.Drawing.Point(190, 562)
+        Me.Panel1.Location = New System.Drawing.Point(190, 541)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(616, 46)
+        Me.Panel1.Size = New System.Drawing.Size(616, 67)
         Me.Panel1.TabIndex = 4
         '
         'Button2
@@ -155,11 +155,11 @@ Partial Class frmPrimary
         Me.Button2.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.ForeColor = System.Drawing.Color.Tomato
-        Me.Button2.Location = New System.Drawing.Point(161, 3)
+        Me.Button2.Location = New System.Drawing.Point(133, 3)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(80, 39)
+        Me.Button2.Size = New System.Drawing.Size(63, 61)
         Me.Button2.TabIndex = 2
-        Me.Button2.Text = "Cerrar[F10]"
+        Me.Button2.Text = "Cerrar   [F10]"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'frmPrimary
